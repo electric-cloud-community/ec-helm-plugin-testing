@@ -8,7 +8,7 @@ pause:
   duration: ~
 
 image:
-  repository: corelab/ks-guestbook-demo:0.2
+  repository: corelab/ks-guestbook-demo
   tag: 0.1
   pullPolicy: IfNotPresent
 
