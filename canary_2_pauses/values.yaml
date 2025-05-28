@@ -8,7 +8,7 @@ pause:
   duration: ~
 
 image:
-  repository: gcr.io/heptio-images/ks-guestbook-demo
+  repository: corelab/ks-guestbook-demo:0.2
   tag: 0.1
   pullPolicy: IfNotPresent
 
